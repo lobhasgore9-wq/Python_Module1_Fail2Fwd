@@ -1,0 +1,2 @@
+#print a motivational quote
+print("""Failure is not fatal. Failure should be our teacher, not our undertaker. It should challenge us to new heights of accomplishments, not pull us to new depths of despair. From honest failure can come valuable experience""")
